@@ -1,8 +1,5 @@
-### Hi there 👋
+### 👋 Hi there 👋
 My name is Artsiom Bojarchuk. 
 
 - 🔭 Beginer Quality Assurance.
-- 🌱 I’m currently learning 
-- 😄 Pronouns: ...
-- ⚡⚡⚡ Fun & hobby: catch beetles & bugs, testing some functional, learn computer science, enikeian in free time.
-
+- ⚡⚡⚡ Fun & hobby: catch a beetles & bugs, testing some functional, learn computer science and enikeian in free time.
