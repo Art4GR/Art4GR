@@ -32,6 +32,4 @@
 - <a href="https://github.com/Art4GR/Stepik-SQL">SQL requests</a>
 - <a href="https://github.com/Art4GR/Postman-Collections">Postman Collections</a>
 <!-- BLOG-POST-LIST:END -->
-<!-- BLOG-POST-LIST:START -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Art4GR)](https://github.com/Art4GR)
-<!-- BLOG-POST-LIST:END -->
+
