@@ -26,9 +26,9 @@
 
 <!-- BLOG-POST-LIST:START -->
 ### Testing Documentation:
-- Check-Lists
+- <a href="https://github.com/Art4GR/Check-Lists">Check-Lists</a>
 - Test-Suites & Test-Cases
-- Bug Reports
+- <a href="https://github.com/Art4GR/Check-Lists">Bug Reports</a>
 - <a href="https://github.com/Art4GR/Stepik-SQL">SQL requests</a>
 - <a href="https://github.com/Art4GR/Postman-Collections">Postman Collections</a>
 <!-- BLOG-POST-LIST:END -->
