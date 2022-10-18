@@ -4,10 +4,20 @@
 - 🔭 Software Testing Engineer
 - ⚡ Fun & hobby: catch beetles & bugs, and learn computer science in free time.
 ### Languages and Tools:
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=blue)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=grey)
+![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=orange)
+![Devtools](https://img.shields.io/badge/-Devtools-black?style=for-the-badge&logo=GoogleChrome&logoColor=blue)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=orange)
+![Testrail](https://img.shields.io/badge/-Testrail-black?style=for-the-badge&logo=Testrail&logoColor=orange)
+![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=Mysql&logoColor=white)
+### OS:
+![WinXP-11](https://img.shields.io/badge/-Windows:-black?style=for-the-badge&logo=&logoColor=white)
+![WinXP](https://img.shields.io/badge/-XP-black?style=for-the-badge&logo=WindowsXP&logoColor=white)
+![Win7](https://img.shields.io/badge/-7-black?style=for-the-badge&logo=WindowsXP&logoColor=white)
+![Win8](https://img.shields.io/badge/-8-black?style=for-the-badge&logo=Windows&logoColor=white)
+![Win10](https://img.shields.io/badge/-10-black?style=for-the-badge&logo=Windows&logoColor=white)
+![Win11](https://img.shields.io/badge/-11-black?style=for-the-badge&logo=Windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=yellow)
+![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logoColor=green)
+![IOS](https://img.shields.io/badge/-IOS-black?style=for-the-badge&logo=IOS&logoColor=grey)
