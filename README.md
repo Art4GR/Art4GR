@@ -29,6 +29,6 @@
 - Check-Lists
 - Test-Suites & Test-Cases
 - Bug Reports
-- SQL requests
-- Postman Collections
+- <a href="https://github.com/Art4GR/Stepik-SQL">SQL requests</a>
+- <a href="https://github.com/Art4GR/Postman-Collections">Postman Collections</a>
 <!-- BLOG-POST-LIST:END -->
