@@ -23,3 +23,12 @@
 ![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logoColor=green)
 ![IOS](https://img.shields.io/badge/-IOS-black?style=for-the-badge&logo=IOS&logoColor=ff69b4)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Windowsterminal&logoColor=white)
+
+<!-- BLOG-POST-LIST:START -->
+### Testing Documentation:
+- Check-Lists
+- Test-Suites & Test-Cases
+- Bug Reports
+- SQL requests
+- Postman Collections
+<!-- BLOG-POST-LIST:END -->
