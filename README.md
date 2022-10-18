@@ -7,7 +7,6 @@
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=blue)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=Github&logoColor=purple)
-![Testrail](https://img.shields.io/badge/-Testrail-black?style=for-the-badge&logo=Testrail&logoColor=orange)
 ![Devtools](https://img.shields.io/badge/-Devtools-black?style=for-the-badge&logo=GoogleChrome&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=orange)
 ![MySql](https://img.shields.io/badge/-MySql-black?style=for-the-badge&logo=Mysql&logoColor=white)
