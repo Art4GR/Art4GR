@@ -33,3 +33,9 @@
 - <a href="https://github.com/Art4GR/Postman-Collections">Postman Collections</a>
 <!-- BLOG-POST-LIST:END -->
 
+<!-- BLOG-POST-LIST:START -->
+### Available devices
+<a href="https://github.com/Art4GR/MyDevices">![My_available_devices](https://img.shields.io/badge/-My_available_devices-black?style=for-the-badge&logo=PCGamingWiki&logoColor=white)
+</a>
+<!-- BLOG-POST-LIST:END -->
+
