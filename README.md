@@ -35,7 +35,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 ###  Additional information:
-<a href="https://www.linkedin.com/in/artsiom-bojarchuk-8294b7210/(https://www.linkedin.com/in/abojarchuk/)">![My_available_devices](https://img.shields.io/badge/-My_LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+<a href="https://www.linkedin.com/in/abojarchuk">![My_available_devices](https://img.shields.io/badge/-My_LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 </a>
 <a href="https://github.com/Art4GR/MyDevices">![My_available_devices](https://img.shields.io/badge/-My_available_devices-black?style=for-the-badge&logo=PCGamingWiki&logoColor=white)
 </a>
