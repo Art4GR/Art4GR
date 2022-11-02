@@ -38,6 +38,7 @@
 <a href="https://www.linkedin.com/in/abojarchuk">![My_available_devices](https://img.shields.io/badge/-My_LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)
 </a>
 <a href="https://github.com/Art4GR/MyDevices">![My_available_devices](https://img.shields.io/badge/-My_available_devices-black?style=for-the-badge&logo=PCGamingWiki&logoColor=white)
+  <a href="https://github.com/Art4GR/CV/tree/main">![CV](https://img.shields.io/badge/-My_CV-black?style=for-the-badge&logo=Symantec&logoColor=green)
 </a>
 <!-- BLOG-POST-LIST:END -->
 
