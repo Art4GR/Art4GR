@@ -1,7 +1,7 @@
 ### 👋 Hi there 👋
 ### My name is Artsiom. 
 
-- 🔭 Software Testing Engineer
+- 🔭 QA Engineer
 - ⚡ Fun & hobby: catch beetles & bugs, and learn computer science in free time.
 ### Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=jira&logoColor=blue)
